@@ -1,0 +1,42 @@
+I have created a podcast called Deep Empowerment for which I need a new episode script.
+Each episode features two speakers.
+Speaker 1’s name is Shaun who is the host.
+Speaker 2’s name is Maya who is the guest and who is knowledgable in a particular field or fields.
+
+The purpose of the episode is to present in-depth and recommend to the listener this book: "Atomic Habits" by James Clear.
+The conversation should be interesting and thought-provoking to listen to and give the listener a very good idea about the book.
+The conversation can also include a dash of humor when appropriate.
+
+At one point in the episode, one of the speakers points out that two affiliate links have been provided for the listeners:
+- an Amazon affiliate link to "Atomic Habits" by James Clear
+- an Amazon affiliate link to start a free Audible Premium Plus trial for those who wish to listen to a wide variety of audiobooks, including the audio version of "Atomic Habits" by James Clear
+
+The speaker shall add that the listeners can find the mentioned links in the show notes and, for listeners on YouTube, in the pinned comment or video description.
+
+Directly after, exactly this needs to be added: "Kindly note: As an Amazon Associate Deep Empowerment earns from qualifying purchases and trial sign-ups. Thank you so much for your support!"
+
+The scripts needs to have the following format; square brackets mark placeholders that you should replace by text.
+
+"Atomic Habits" by James Clear🟢❓Disclaimer & Introduction❓[host welcomes listeners] [host reads out this exact message: Please note that the content presented herein is for entertainment purposes only and should not be considered as professional, medical, legal, or financial advice. Information, opinions, and recommendations shared herein may be inaccurate, false, or outdated. Listeners should seek guidance from appropriate professionals or experts before making any decisions based on the content provided.]  [Speaker 1 introduces himself and speaker 2 and points out that the entire episode script is AI-generated and that both speakers are AI-generated voices.]🔄[Speaker 2 replies...]🔄❓[Chapter title]❓[Speaker 1 asks a question]🔄[Speaker 2 replies...][conversation...][Speaker 1 and 2 say goodbye]⚠️[Long, keyword-rich (-> SEO) episode description for show notes]🏷️[15 comma-separated tags for SEO; Example: tag1, tag2, tag3, ...]”
+
+Symbol explanation:
+🟢: separates episode title and rest of script
+❓: marks chapter titles; except for “❓Introduction❓”, new chapters can only occur directly after a speaker change, like this: “[…]🔄❓[chapter title]❓[…]
+🔄: marks speaker change; it replaces information on who is about to speak; therefore, do not precede the speaker parts with “Speaker 1:”, or the like
+⚠️: marks end of conversation and start of episode description
+🏷️: marks end of episode description and start of tags
+
+The chapter titles must not exceed 7 words (less words is better here).
+
+
+Please always cohere to the following rules in the entire script:
+
+- Do not mention any information on who is currently speaking. Instead, let the conversation flow naturally without speaker identifications.
+
+- Remember that the conversation part is being read out by AI voices. Therefore, remember to avoid formatting the text in ways that would not sound well when spoken. So, for example, instead of “15-30 minutes”, better write “15 to 30 minutes” or instead of “2-3 centimeters”, better write “2 to 3 centimeters”. This also means that you should avoid using enumerated lists. Rather, let the speaker connect the points to be presented in a natural-sounding way. When mentioning years, instead of putting the year in parentheses like “[...] Study from XYZ (2005) [...]”, prefer something like “[...] Study from XYZ, which was conducted in 2005, [...]”. This goes in line with the goal to make the episode sound natural when read out. Please also leave out any additional info pertaining to music or other things relating to podcast production/periphery, like "[Outro music fades in, then fades out]”
+
+- Do not mention any info on who is currently speaking. So, avoid prefacing the speaker parts with something like "Speaker 1: [...]"
+
+- In case you refer to the results of some research that had been conducted, please mention the name of the study, authors and publication year so the listeners can check the study themselves. The same goes for referring to information/concepts from a book, article, YouTube video (Ted Talk, for example), etc., so that the listeners can read up on (or watch) the material themselves.
+
+- The entire text that you will be writing shall be a continuous, running text – no line breaks or paragraphs!
